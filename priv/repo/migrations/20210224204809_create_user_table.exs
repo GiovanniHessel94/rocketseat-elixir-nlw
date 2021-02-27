@@ -13,6 +13,6 @@ defmodule Rocketpay.Repo.Migrations.CreateUserTable do
     end
 
     create unique_index(:users, [:email])
-    create unique_index(:users, [:name])
+    create unique_index(:users, [:nickname])
   end
 end
