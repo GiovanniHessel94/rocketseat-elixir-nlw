@@ -1,4 +1,4 @@
-# React-Alura-Formation
+# Rocketseat-Elixir-Next-Level-Week
 
 This repository is the codebase of the development made on rocketseat elixir's next level week.
 
